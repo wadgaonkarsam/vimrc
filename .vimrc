@@ -43,6 +43,7 @@ nnoremap <C-Up> <C-e>
 nnoremap <C-Down> <C-y>
 
 let g:NERDTreeWinSize=40
+let g:NERDTreeMinimalUI=1
 let g:nerdtree_tabs_open_on_console_startup=1
 let g:nerdtree_tabs_autofind=1
 
